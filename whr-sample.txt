@@ -1,0 +1,6 @@
+Item NAme : Rice
+Quantity : 1 bah 50kg
+Farmer : Matt 
+Recipet No : 1234
+WarehouseNo : FL000
+Price : $500
