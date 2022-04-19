@@ -1,0 +1,42 @@
+Variables solidty supports
+
+string - hu, hello
+bool - true, false
+int- 0, 100, -50
+uint only positive values - 0, 100
+address - ethaddress string 0xhwe847..
+
+
+int8   -128              127
+int16  -32,768          32,768
+int32
+..
+...
+int256   really big numbers
+
+default 
+int = int256
+
+uint8 0      255
+uint16  0     65,535
+...
+uint 256  0    big num
+
+uint = uint256
+
+-------------
+global variable 
+message 'msg' variable 
+
+mapping - collection of key value pairs
+mapping(string -> string);
+mapping(int-> bool);
+collection of key values pairs all one type
+
+struct - collection of key value pairs with different types
+struct car{
+    string make;
+    string model;
+    unit value;
+}
+
